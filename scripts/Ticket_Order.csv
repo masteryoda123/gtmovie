@@ -1,0 +1,50 @@
+Order_id,Status,Adults,Seniors,Children,Manager_username,Title,Release_year,View_TimeAndDate,Customer_username,Card_number
+0,Cancelled,1,0,0,regal,X-Men: Apocalypse,2016,2016-05-23 13:45:00,user,1234567891011120
+0,Cancelled,1,0,0,amc,Inception,2010,2016-05-24 09:15:00,yoda,9012901290129010
+0,Cancelled,1,0,0,carmike,Deadpool,2016,2016-06-05 10:15:00,erikk,8585959505050500
+0,Cancelled,2,0,0,aurora,X-Men: Apocalypse,2016,2016-06-07 09:30:00,rah,1122334455667780
+0,Cancelled,1,0,2,cinemark,Inception,2010,2016-06-12 22:15:00,sankite,1020304050607080
+0,Completed,1,0,0,malco,Deadpool,2016,2016-06-18 19:30:00,jsmith,1033104410551060
+0,Completed,1,0,0,regal,X-Men: Apocalypse,2016,2016-06-18 20:30:00,ewatson,1190119011901190
+0,Completed,1,0,0,amc,Inception,2010,2016-06-19 21:00:00,dradcliffe,9999888877776660
+0,Completed,1,0,0,carmike,Deadpool,2016,2016-06-30 10:45:00,pfreeman,9201920192019200
+0,Completed,1,0,0,aurora,X-Men: Apocalypse,2016,2016-06-30 20:00:00,msweat,4567456545564000
+0,Completed,2,0,3,cinemark,The Dark Knight Rises,2012,2016-06-30 20:15:00,klark,1001100210031000
+0,Completed,1,0,0,malco,Deadpool,2016,2016-07-01 00:00:00,kvishal,8393103000000000
+0,Completed,1,0,0,regal,X-Men: Apocalypse,2016,2016-07-01 13:00:00,tbrown,2525252525252520
+0,Completed,1,2,0,amc,Inception,2010,2016-07-03 09:15:00,jroberts,3535353535353530
+0,Completed,1,0,2,carmike,Deadpool,2016,2016-07-03 09:45:00,pryan,5000500150025000
+0,Completed,2,0,0,aurora,The Dark Knight Rises,2012,2016-07-10 23:00:00,drdre,2652265326542650
+0,Completed,1,0,1,cinemark,Sherlock Holmes: A Game of Shadows,2011,2016-07-10 23:30:00,excel,8391993020012220
+0,Completed,1,0,4,malco,The Dark Knight Rises,2012,2016-07-11 14:30:00,cbelle,1111222233334440
+0,Completed,1,0,0,regal,Deadpool,2016,2016-07-17 14:30:00,tprice,8098809880988090
+0,Completed,1,0,3,amc,The Dark Knight Rises,2012,2016-07-19 23:45:00,khuang,1011101210131010
+0,Cancelled,1,0,1,carmike,The Dark Knight Rises,2012,2016-07-21 10:30:00,klark,1001100210031000
+0,Cancelled,1,1,0,aurora,Inception,2010,2016-07-22 13:15:00,kvishal,8393103000000000
+0,Cancelled,1,0,0,cinemark,Deadpool,2016,2016-07-22 15:30:00,tbrown,2525252525252520
+0,Cancelled,1,0,0,malco,The Dark Knight Rises,2012,2016-07-23 18:00:00,jroberts,3535353535353530
+0,Cancelled,2,0,5,regal,X-Men: Apocalypse,2016,2016-07-23 19:15:00,pryan,5000500150025000
+0,unused,3,1,0,amc,The Conjuring 2,2016,2016-07-24 15:45:00,drdre,1809180918091800
+0,unused,2,0,0,carmike,The Conjuring 2,2016,2016-07-25 09:00:00,excel,4040505060607070
+0,unused,5,0,0,aurora,Mike and Dave Need Wedding Dates,2016,2016-07-25 10:45:00,cbelle,5151515151515150
+0,unused,0,2,3,cinemark,Finding Dory,2016,2016-07-26 23:45:00,tprice,2095209520910010
+0,unused,1,0,0,malco,Ghostbusters,2016,2016-07-27 23:00:00,khuang,1617181945464740
+0,unused,1,1,0,regal,The Purge: Election Year,2016,2016-07-27 23:15:00,user,1234567891011120
+0,unused,2,1,1,amc,The Legend of Tarzan,2016,2016-07-29 10:00:00,yoda,9012901290129010
+0,unused,1,1,4,malco,The Dark Knight Rises,2012,2016-07-23 18:00:00,erikk,8585959505050500
+0,unused,1,0,2,regal,X-Men: Apocalypse,2016,2016-07-23 19:15:00,rah,1122334455667780
+0,unused,1,0,0,amc,The Conjuring 2,2016,2016-07-24 15:45:00,sankite,1020304050607080
+0,unused,1,0,2,carmike,The Conjuring 2,2016,2016-07-25 09:00:00,jsmith,1033104410551060
+0,unused,1,0,0,aurora,Mike and Dave Need Wedding Dates,2016,2016-07-25 10:45:00,ewatson,1190119011901190
+0,unused,1,0,2,cinemark,Finding Dory,2016,2016-07-26 23:45:00,dradcliffe,9999888877776660
+0,unused,1,0,1,malco,Ghostbusters,2016,2016-07-27 23:00:00,pfreeman,9201920192019200
+0,unused,1,2,2,regal,The Purge: Election Year,2016,2016-07-27 23:15:00,msweat,4567456545564000
+0,unused,4,1,0,amc,The Legend of Tarzan,2016,2016-07-29 10:00:00,user,1234567891011120
+0,unused,1,1,1,aurora,Mike and Dave Need Wedding Dates,2016,2016-07-25 10:45:00,yoda,9012901290129010
+0,unused,3,0,0,cinemark,Finding Dory,2016,2016-07-26 23:45:00,erikk,8585959505050500
+0,unused,1,1,0,malco,Ghostbusters,2016,2016-07-27 23:00:00,rah,1122334455667780
+0,unused,1,0,0,regal,The Purge: Election Year,2016,2016-07-27 23:15:00,sankite,1020304050607080
+0,unused,0,0,6,amc,The Legend of Tarzan,2016,2016-07-29 10:00:00,jsmith,1033104410551060
+0,unused,1,0,0,malco,The Dark Knight Rises,2012,2016-07-23 18:00:00,ewatson,1190119011901190
+0,unused,1,0,1,regal,X-Men: Apocalypse,2016,2016-07-23 19:15:00,dradcliffe,9999888877776660
+0,unused,2,0,2,amc,The Conjuring 2,2016,2016-07-24 15:45:00,pfreeman,9201920192019200

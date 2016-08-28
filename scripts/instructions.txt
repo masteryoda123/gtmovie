@@ -1,0 +1,5 @@
+Run these commands one by one just once:
+cd /var/www/html/gtmovie-php/scripts
+sudo cp ./setup_database.sh ~/setup_database.sh
+sudo chmod +x ~/setup_database.sh
+sudo ~/setup_database.sh reload
